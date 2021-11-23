@@ -1,0 +1,28 @@
+{
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "name": "learn-code-v7-beta",
+  "description": "Welcome to the Learn Code v7 Beta! =======",
+  "version": "7.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Learn-Code-App/Learn-Code-v7-Beta.git"
+  },
+  "keywords": [
+    "learn-code",
+    "hacktoberfest",
+    "code"
+  ],
+  "author": "Learn-Code-App",
+  "license": "CC-BY-4.0",
+  "bugs": {
+    "url": "https://github.com/Learn-Code-App/Learn-Code-v7-Beta/issues"
+  },
+  "homepage": "https://github.com/Learn-Code-App/Learn-Code-v7-Beta#readme"
+}
